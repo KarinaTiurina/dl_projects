@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 /Project1/data
+/Project1/cnn/train_history/**/*.keras
