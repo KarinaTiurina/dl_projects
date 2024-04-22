@@ -162,3 +162,5 @@ cython_debug/
 /Project1/data
 # /Project1/cnn/train_history/**/*.keras
 *.keras
+
+/Project2/data
