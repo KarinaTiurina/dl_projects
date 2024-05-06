@@ -162,3 +162,7 @@ cython_debug/
 /Project1/data
 # /Project1/cnn/train_history/**/*.keras
 *.keras
+
+/Project2/data
+/Project2/transformer/GFG_commands_audio_classification_finetuned
+/Project2/transformer/GFG_audio_classification_finetuned
